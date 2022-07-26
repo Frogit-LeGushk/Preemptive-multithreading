@@ -1,6 +1,6 @@
 # Green-Threads:
 ### Screencast:
-![example]()
+![alt text](https://github.com/Acool4ik/Green-threads/blob/master/images/Screencast.gif)
 ### Then to run project:
 - `sudo apt -y install fasm`
 - `make`
