@@ -1,4 +1,5 @@
 # Green-Threads:
+Work only on X86-64, tested only on Ubuntu 20.04
 ### Screencast:
 ![alt text](https://github.com/Acool4ik/Green-threads/blob/master/images/Screencast.gif)
 ### Then to run project:
